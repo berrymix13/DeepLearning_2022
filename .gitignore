@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# my
+kaggle.json
+exercise.ipynb
+
 # C extensions
 *.so
 
